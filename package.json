@@ -16,19 +16,14 @@
         "admin",
         "app"
     ],
-    "homepage": "https://startbootstrap.com/theme/sb-admin-2",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-sb-admin-2/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/Shouko361/sb-admin/issues"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (https://davidmiller.io/)"
-    ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git"
+        "url": "https://github.com/Shouko361/sb-admin.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.15.3",
